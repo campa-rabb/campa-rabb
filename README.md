@@ -6,7 +6,7 @@
 
 <br>
 
-### Skills
+### あつかえる技術たち
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,jquery,php,py,lua,postgres,react,supabase,flask,fastapi,ai,ps,pr,figma,docker&theme=dark)](https://skillicons.dev)
 
