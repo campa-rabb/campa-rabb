@@ -19,5 +19,5 @@ illustration by [灯晴ほく](https://x.com/kikaizikakeno)
 <br>
 
 ### ご連絡
-[TwitterのDM](https://twitter.com/campa_rabb)にてご連絡ください！  
+[TwitterのDM](https://x.com/campa_rabb)にてご連絡ください！  
 よい一日を！
