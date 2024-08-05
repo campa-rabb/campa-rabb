@@ -1,4 +1,6 @@
 ![hero image](./img/hero.jpg)
+illustration by [灯晴ほく](https://x.com/kikaizikakeno)
+<br>
 
 ### 灯りをともせ！  
 こんにちは。カンパネルラです。ソフトウェアのエンジニアです。バックエンドのほうが少し得意だけど、フロントエンドのほうが少し好きです。  
